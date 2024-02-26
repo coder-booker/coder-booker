@@ -14,5 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <div align="center"> <img src="https://metrics.lecoq.io/coder-booker?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+## I'm Mike YUEN, you can call me Booker as you like
+### I'm a enthusiastic Full-stack developer and AI Engineerer, seeking for opportunties in cutting-edge IT industry! 
+
+- 🌱 I’m currently learning in HKU, Computer Engineering Year 3
+- 👨🏻‍💻 Skills: Full-stack (React, Flask), AI (ML, CV)
+- 📫 How to reach me: [Email](h.s.yuen.mike@gmail.com)
+- 😄 Interests: singing and coding
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-booker&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder-booker&theme=omni)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder-booker&theme=omni&utcOffset=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-booker&layout=compact)]
