@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-booker&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder-booker&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder-booker&theme=omni&utcOffset=8)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-booker&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-booker&layout=compact)
