@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://metrics.lecoq.io/coder-booker?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<!-- <div align="center"> <img src="https://metrics.lecoq.io/coder-booker?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
