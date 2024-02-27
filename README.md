@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](h.s.yuen.mike@gmail.com)
 - 😄 Interests: singing and coding
 
+I am relatively new to github, but I will continually create new content in the future. :)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-booker&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder-booker&theme=omni)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder-booker&theme=omni&utcOffset=8)
