@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ## I'm Mike YUEN, you can call me Booker as you like
 ### I'm a enthusiastic Full-stack developer and AI Engineerer, seeking for opportunties in cutting-edge IT industry! 
 
-- 🌱 I’m currently learning in HKU, Computer Engineering Year 3
+- 🌱 I’m currently learning in HKU, Computer Engineering Year 3. 
 - 👨🏻‍💻 Skills: Full-stack (React, Flask), AI (ML, CV)
 - 📫 How to reach me: [Email](h.s.yuen.mike@gmail.com)
-- 😄 Interests: singing and coding
+- 😄 Interests: coding and singing
 
 I am relatively new to github, but I will continually create new content in the future. :)
 
