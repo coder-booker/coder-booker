@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning in HKU, Computer Engineering Year 3. 
 - 👨🏻‍💻 Skills: Full-stack (React, Flask), AI (ML, CV)
-- 📫 How to reach me: [Email](h.s.yuen.mike@gmail.com)
+- 📫 How to reach me: h.s.yuen.mike@gmail.com 
 - 😄 Interests: coding and singing
 
 I am relatively new to github, but I will continually create new content in the future. :)
