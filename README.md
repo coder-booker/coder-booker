@@ -30,6 +30,6 @@ I am relatively new to github, but I will continually create new content in the 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coder-booker&theme=omni&utcOffset=8)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-booker&layout=compact)
 -->
-<img align="left" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-booker&theme=omni">
+<img align="left" width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-booker&theme=omni">
 <img align="left" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder-booker&theme=omni">
 <img height="20%" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-booker&layout=compact&theme=omni">
