@@ -1,10 +1,5 @@
-### Hi there 👋
 
 <!--
-**coder-booker/coder-booker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,16 +9,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Hi there 👋 Welcome! 
 ## I'm Mike YUEN, you can call me Booker as you like
-### I'm a enthusiastic Full-stack developer and AI Engineerer, seeking for opportunties in cutting-edge IT industry! 
+### I'm a enthusiastic Full-stack developer, seeking for more opportunties in IT industry! 
 
 - 🌱 I’m currently learning in HKU, Computer Engineering Year 3. 
-- 👨🏻‍💻 Skills: Full-stack (React, Flask), AI (ML, CV)
-- 📫 How to reach me: h.s.yuen.mike@gmail.com 
-- 😄 Interests: coding and singing
+- 👨🏻‍💻 Skills: Software development, Full-stack (React, Node.js), Cloud Service (Azure). 
+- 📫 How to reach me: [Email](mailto:///h.s.yuen.mike@gmail.com) | [Linkedin](https://www.linkedin.com/in/mike-hoshingyuen/)
+- 😄 Interests: ofc coding. Also singing and gaming if u r curious.
+- 💬 Language: Chinese (both Cantonese & Mandarin), English
 
-I am relatively new to github, but I will continually create new content in the future. :)
+#### Technology Stack:
+-	Programming Language: &nbsp; JavaScript/TypeScript | Python | Java(a little bit) | C++(a little bit)
+-	Framework/Environment: &nbsp; React | Next.js | Node.js | Flask&Quart
+
 
 <!-- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coder-booker&theme=omni)
